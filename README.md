@@ -1,5 +1,7 @@
 # Dripod MCP — 3D print-on-demand mockups
 
+[![AllMCPs Verified](https://allmcps.com/api/badge/dripod)](https://allmcps.com/mcp/dripod?verify=48c7354b-71af-48d3-be6f-d1abe111ac9e)
+
 **Dripod** puts a print-on-demand design on a product mockup and gives back a PNG for an Etsy, Shopify or Printify listing. The products are drawn in 3D with real light by Drint's render engine, the print following the folds of the fabric or the curve of the mug: 174 blanks on 9 shelves — T-shirts and tops, hoodies, mugs and tumblers, hats, totes and bags, phone and AirPods cases, pillows and towels, socks and aprons, jackets and pants. Every garment is worn on an invisible form, never a flat lay.
 
 This repository holds the setup files for the **hosted** Dripod MCP server. There is nothing to install or run:
