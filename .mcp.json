@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dripod": {
+      "type": "http",
+      "url": "https://drint.io/dripod/mcp"
+    }
+  }
+}

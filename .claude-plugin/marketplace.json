@@ -1,0 +1,18 @@
+{
+  "name": "dripod",
+  "owner": {
+    "name": "Drint",
+    "email": "support@drint.io"
+  },
+  "metadata": {
+    "description": "Dripod print-on-demand mockups for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "dripod",
+      "source": "./",
+      "description": "Put a print-on-demand design on 3D T-shirt, hoodie, mug and phone case mockups, from drint.io/dripod/mcp",
+      "category": "design"
+    }
+  ]
+}

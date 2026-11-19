@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dripod",
+  "version": "1.0.0",
+  "description": "Print-on-demand mockups in your AI agent: put a design on a T-shirt, hoodie, mug, tumbler, hat, tote, phone case or pillow, rendered in 3D, and get a PNG for Etsy, Shopify or Printify.",
+  "author": {
+    "name": "Drint",
+    "email": "support@drint.io",
+    "url": "https://drint.io"
+  },
+  "homepage": "https://drint.io/dripod",
+  "repository": "https://github.com/drint-io/dripod-mcp",
+  "license": "MIT",
+  "keywords": [
+    "print on demand",
+    "pod mockup",
+    "t-shirt mockup",
+    "mug mockup",
+    "hoodie mockup",
+    "etsy",
+    "shopify",
+    "printify",
+    "mockup",
+    "mcp"
+  ]
+}

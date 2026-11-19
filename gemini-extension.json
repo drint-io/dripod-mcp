@@ -1,0 +1,10 @@
+{
+  "name": "dripod",
+  "version": "1.0.0",
+  "description": "Put print-on-demand designs on 3D T-shirt, hoodie, mug and phone case mockups with Dripod, hosted at https://drint.io/dripod/mcp.",
+  "mcpServers": {
+    "dripod": {
+      "httpUrl": "https://drint.io/dripod/mcp"
+    }
+  }
+}

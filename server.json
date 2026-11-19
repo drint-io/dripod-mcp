@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.drint/dripod",
+  "title": "Dripod",
+  "description": "Put a print-on-demand design on 3D mockups of T-shirts, hoodies, mugs, hats and phone cases as PNG.",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "https://drint.io/dripod/favicon.svg",
+      "mimeType": "image/svg+xml"
+    }
+  ],
+  "websiteUrl": "https://drint.io/dripod",
+  "repository": {
+    "url": "https://github.com/drint-io/dripod-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://drint.io/dripod/mcp"
+    }
+  ]
+}
